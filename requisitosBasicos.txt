@@ -1,0 +1,37 @@
+Fórum:
+
+routes:
+- Home page;
+- Communites;
+- Chat;
+- Mensagens;
+
+
+Home Page:
+principais publicações;
+
+Communities: 
+todas as comunidades;
+
+Chat:
+lista de chats;
+
+Mensagens:
+mensagens diretas;
+
+
+
+Publicação:
+- perfil;
+- título;
+- corpo;
+
+chat:
+- perfil;
+- mensagem;
+
+
+
+
+
+
